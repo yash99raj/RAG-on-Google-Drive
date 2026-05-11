@@ -1,0 +1,7 @@
+[
+  {"question": "What is the refund policy?", "keywords": ["refund", "days", "policy"]},
+  {"question": "Who should I contact for IT support?", "keywords": ["IT", "support", "contact"]},
+  {"question": "What are the working hours?", "keywords": ["hours", "working", "schedule"]},
+  {"question": "How do I request time off?", "keywords": ["leave", "request", "approval"]},
+  {"question": "What is the expense reimbursement process?", "keywords": ["expense", "receipt", "reimburse"]}
+]
